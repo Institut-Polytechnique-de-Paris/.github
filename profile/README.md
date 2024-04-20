@@ -1,4 +1,4 @@
-# Institut Polytechnique de Paris Open-Source Code Repository 🚀
+# Institut Polytechnique de Paris AI Open-Source Code Repository 🚀
 
 Welcome to the official GitHub repository for Institut Polytechnique de Paris (IPP) open-source code releases! Here, you'll find a collection of projects, tools, and resources developed by researchers, students, and collaborators from Institut Polytechnique de Paris.
 
